@@ -7,10 +7,10 @@ Rust ve Slint ile geliştirilmiş interaktif bir **slide puzzle (kaydırmalı ya
 ## 🎮 Oyun Görselleri
 
 ### Görsel tabanlı puzzle modu:
-![Görsel Puzzle Modu](assets/Ekran görüntüsü 2025-05-20 114713.png)
+![Görsel Puzzle Modu](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-20%20114713.png)
 
 ### Sayısal puzzle (default) görünüm:
-![Sayısal Puzzle Modu](assets/Ekran görüntüsü 2025-05-20 114731.png)
+![Sayısal Puzzle Modu](assets/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-20%20114731.png)
 
 ## 🚀 Özellikler
 
